@@ -1,0 +1,9 @@
+github.com/gorilla/mux v1.7.4 h1:VuZ8uybHlWmqV03+zRzdwKL4tUnIp1MAQtp1mIFE1bc=
+github.com/gorilla/mux v1.7.4/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/james077/bookstore_items-api v0.0.0-20200324163829-74e4af74661d h1:zmW9dIb/aCteJTHKZuCLLJlYUMuXDfhe3oTj6CcItkg=
+github.com/james077/bookstore_oauth-go v0.0.0-20200417035945-142a9e069d89 h1:1pPNG+r4OgrceO/1Ud5pfnIrip/ty5KZSlb38csWoKE=
+github.com/james077/bookstore_oauth-go v0.0.0-20200417035945-142a9e069d89/go.mod h1:Etz4pmg5TlgzhJJlHGjDSAaApCdU5ER3NrHmzwplwQs=
+github.com/james077/bookstore_utils-go v0.0.0-20200417040059-05eaeb77eb54 h1:3dBGCWU5ntprftc8PrdCZafX1/mVuWHs7Fr3immkVZQ=
+github.com/james077/bookstore_utils-go v0.0.0-20200417040059-05eaeb77eb54/go.mod h1:64xJRQnvhfICjX0GEpTRTAOAdeELaoK8PvlJQ2vDVjQ=
+github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0 h1:EDOjA2IGgjSBlPlnW7CzBUo/o410SMiFh670jP29Kc4=
+github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0/go.mod h1:Z7qYja4aGk/RWl1yJtN1LXRvC7Hsbq8SEbqWWDrMqMs=
